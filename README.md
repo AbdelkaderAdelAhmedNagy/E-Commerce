@@ -111,7 +111,7 @@ npm install
 npm start
 
 ```
-**##🛠️ Tech Stack**
+##**🛠️ Tech Stack**
 
 - **React** – Frontend framework
 - **React Bootstrap** – UI components and styling
@@ -120,7 +120,7 @@ npm start
 - **JavaScript (ES6+)**
 - **LocalStorage** – Token persistence
 
-**## 🚀 Demo**
+##** 🚀 Demo**
 
 👉 [Live Demo](https://e-commerceproject-orcin.vercel.app/)
 
