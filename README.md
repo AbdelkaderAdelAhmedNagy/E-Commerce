@@ -120,7 +120,7 @@ npm start
 - **JavaScript (ES6+)**
 - **LocalStorage** – Token persistence
 ---
-##** 🚀 Demo**
+## 🚀 Demo
 
 👉 [Live Demo](https://e-commerceproject-orcin.vercel.app/)
 ---
