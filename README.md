@@ -119,13 +119,14 @@ npm start
 - **Axios / Fetch API** – For API calls
 - **JavaScript (ES6+)**
 - **LocalStorage** – Token persistence
-
+---
 ##** 🚀 Demo**
 
 👉 [Live Demo](https://e-commerceproject-orcin.vercel.app/)
-
+---
 **## Notes/Known Issues**
 - Registration is **mock only** (DummyJSON limitation).
 - API data is **static/placeholder**.
 - Token persistence uses **localStorage** (not secure for production).
 - Deployment link updated to **Vercel**.
+---
