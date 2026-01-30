@@ -124,7 +124,7 @@ npm start
 
 👉 [Live Demo](https://e-commerceproject-orcin.vercel.app/)
 ---
-## Notes/Known Issues
+## 📝Notes/Known Issues
 - Registration is **mock only** (DummyJSON limitation).
 - API data is **static/placeholder**.
 - Token persistence uses **localStorage** (not secure for production).
