@@ -111,7 +111,7 @@ npm install
 npm start
 
 ```
-##**🛠️ Tech Stack**
+## 🛠️  Tech Stack
 
 - **React** – Frontend framework
 - **React Bootstrap** – UI components and styling
