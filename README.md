@@ -123,7 +123,7 @@ npm start
 ## 🚀 Demo
 
 👉 [Live Demo](https://e-commerceproject-orcin.vercel.app/)
----
+
 ## 📝Notes/Known Issues
 - Registration is **mock only** (DummyJSON limitation).
 - API data is **static/placeholder**.
